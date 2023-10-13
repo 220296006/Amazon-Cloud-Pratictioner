@@ -71,6 +71,7 @@ Kubernetes(opens in a new tab) is open-source software that enables you to deplo
 
 ## AWS Fargate
 
-**AWS Fargate** is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS. 
+**AWS Fargate** is a serverless compute engine for containers. It works with both Amazon ECS and Amazon EKS.
 
 When using AWS Fargate, you do not need to provision or manage servers. AWS Fargate manages your server infrastructure for you. You can focus more on innovating and developing your applications, and you pay only for the resources that are required to run your containers.
+
