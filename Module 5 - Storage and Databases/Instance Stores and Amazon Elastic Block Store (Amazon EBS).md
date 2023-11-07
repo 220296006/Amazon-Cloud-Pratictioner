@@ -197,7 +197,6 @@ With AWS DMS, you move data between a source database and a target database. The
 
 For example, suppose that you have a MySQL database that is stored on premises in an Amazon EC2 instance or in Amazon RDS. Consider the MySQL database to be your source database. Using AWS DMS, you could migrate your data to a target database, such as an Amazon Aurora database.
 
-
 ## Additional database services
 
 ### Amazon DocumentDB
@@ -233,4 +232,3 @@ It supports two types of data stores: Redis and Memcached.
 **Amazon DynamoDB Accelerator (DAX)** is an in-memory cache for DynamoDB.
 
 It helps improve response times from single-digit milliseconds to microseconds.
-
