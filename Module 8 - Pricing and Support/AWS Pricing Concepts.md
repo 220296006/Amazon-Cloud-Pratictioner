@@ -24,7 +24,7 @@ For example, the more Amazon S3 storage space you use, the less you pay for it p
 
 ## AWS Pricing Calculator
 
-The AWS Pricing Calculator(opens in a new tab) lets you explore AWS services and create an estimate for the cost of your use cases on AWS. You can organize your AWS estimates by groups that you define. A group can reflect how your company is organized, such as providing estimates by cost center.
+**The AWS Pricing Calculator** lets you explore AWS services and create an estimate for the cost of your use cases on AWS. You can organize your AWS estimates by groups that you define. A group can reflect how your company is organized, such as providing estimates by cost center.
 
 When you have created an estimate, you can save it and generate a link to share it with others.
 
@@ -40,7 +40,7 @@ This section presents a few examples of pricing in AWS services.
 
 To learn more about **AWS Lambda pricing**, choose each of the following two tabs.
 
-#### AWS Lambda Pricing 
+#### AWS Lambda Pricing
 
 For AWS Lambda, you are charged based on the number of requests for your functions and the time that it takes for them to run.
 

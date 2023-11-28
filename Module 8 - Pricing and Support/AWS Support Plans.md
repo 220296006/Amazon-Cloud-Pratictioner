@@ -2,7 +2,7 @@
 
 ## AWS Support
 
-AWS offers four different Support plans(opens in a new tab) to help you troubleshoot issues, lower costs, and efficiently use AWS services.
+AWS offers four different **Support plans** to help you troubleshoot issues, lower costs, and efficiently use AWS services.
 
 You can choose from the following Support plans to meet your company’s needs:
 
@@ -24,7 +24,7 @@ If your company needs support beyond the Basic level, you could consider purchas
 
 The Developer, Business, Enterprise On-Ramp, and Enterprise Support plans include all the benefits of Basic Support, in addition to the ability to open an unrestricted number of technical support cases. These Support plans have pay-by-the-month pricing and require no long-term contracts.
 
-The information in this course highlights only a selection of details for each Support plan. A complete overview of what is included in each Support plan, including pricing for each plan, is available on the AWS Support(opens in a new tab) site.
+The information in this course highlights only a selection of details for each Support plan. A complete overview of what is included in each Support plan, including pricing for each plan, is available on the AWS Support site.
 
 In general, for pricing, the Developer plan has the lowest cost, the Business and Enterprise On-Ramp plans are in the middle, and the Enterprise plan has the highest cost.
 

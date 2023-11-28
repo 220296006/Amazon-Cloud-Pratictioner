@@ -30,9 +30,6 @@ For example, a simple Lambda function might involve automatically resizing uploa
 
 How AWS Lambda works
 
-
-How AWS Lambda works
-
 ![Alt text](JTriNNcmEv2XMp2v_ssdAdxlZRBGG7c57.png)
 
 1. You upload your code to Lambda.

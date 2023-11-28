@@ -2,7 +2,7 @@
 
 ## Amazon Elastic Compute Cloud (Amazon EC2)
 
-Amazon Elastic Compute Cloud (Amazon EC2)(opens in a new tab) provides secure, resizable compute capacity in the cloud as Amazon EC2 instances.
+Amazon Elastic Compute Cloud (Amazon EC2) provides secure, resizable compute capacity in the cloud as Amazon EC2 instances.
 
 Imagine you are responsible for the architecture of your company's resources and need to support new websites. With traditional on-premises resources, you have to do the following:
 
@@ -26,10 +26,11 @@ Amazon EC2 instance types are optimized for different tasks. When selecting an i
 
 **General purpose instances** provide a balance of compute, memory, and networking resources. You can use them for a variety of workloads, such as:
 
-application servers
-gaming servers
-backend servers for enterprise applications
-small and medium databases
+- application servers
+- gaming servers
+- backend servers for enterprise applications
+- small and medium databases
+
 Suppose that you have an application in which the resource needs for compute, memory, and networking are roughly equivalent. You might consider running it on a general purpose instance because the application does not require optimization in any single resource area.
 
 ### Compute optimized instances

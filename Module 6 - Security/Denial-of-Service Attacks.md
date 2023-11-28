@@ -58,7 +58,7 @@ With AWS KMS, you can choose the specific levels of access control that you need
 
 ## AWS WAF
 
-AWS WAF(opens in a new tab) is a web application firewall that lets you monitor network requests that come into your web applications. 
+**AWS WAF** is a web application firewall that lets you monitor network requests that come into your web applications. 
 
 AWS WAF works together with Amazon CloudFront and an Application Load Balancer. Recall the network access control lists that you learned about in an earlier module. AWS WAF works in a similar way to block or allow traffic. However, it does this by using a web access control list (ACL)(opens in a new tab) to protect your AWS resources. 
 
@@ -74,7 +74,7 @@ However, if a request comes from one of the blocked IP addresses that you have s
 
 ## Amazon Inspector
 
-Suppose that the developers at the coffee shop are developing and testing a new ordering application. They want to make sure that they are designing the application in accordance with security best practices. However, they have several other applications to develop, so they cannot spend much time conducting manual assessments. To perform automated security assessments, they decide to use Amazon Inspector(opens in a new tab).
+Suppose that the developers at the coffee shop are developing and testing a new ordering application. They want to make sure that they are designing the application in accordance with security best practices. However, they have several other applications to develop, so they cannot spend much time conducting manual assessments. To perform automated security assessments, they decide to use Amazon Inspector.
 
 Amazon Inspector helps to improve the security and compliance of applications by running automated security assessments. It checks applications for security vulnerabilities and deviations from security best practices, such as open access to Amazon EC2 instances and installations of vulnerable software versions.
 

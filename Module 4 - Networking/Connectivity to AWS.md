@@ -108,7 +108,7 @@ When a packet response for that request comes back to the subnet, the network AC
 
 After a packet has entered a subnet, it must have its permissions evaluated for resources within the subnet, such as Amazon EC2 instances.
 
-The VPC component that checks packet permissions for an Amazon EC2 instance is a security group(opens in a new tab).\
+The VPC component that checks packet permissions for an Amazon EC2 instance is a security group.
 
 ## Security groups
 
@@ -162,7 +162,7 @@ A client connects to a DNS resolver looking for a domain. The resolver forwards 
 
 ### Amazon Route 53
 
-Amazon Route 53(opens in a new tab) is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS. 
+Amazon Route 53 is a DNS web service. It gives developers and businesses a reliable way to route end users to internet applications hosted in AWS. 
 
 Amazon Route 53 connects user requests to infrastructure running in AWS (such as Amazon EC2 instances and load balancers). It can route users to infrastructure outside of AWS.
 
@@ -174,7 +174,7 @@ In the previous module, you learned about Amazon CloudFront, a content delivery 
 
 ![Alt text](LM5hmSrcCrDz84RE_WE71CA369xcdceJ2.png)
 
-uppose that AnyCompany’s application is running on several Amazon EC2 instances. These instances are in an Auto Scaling group that attaches to an Application Load Balancer.
+Suppose that AnyCompany’s application is running on several Amazon EC2 instances. These instances are in an Auto Scaling group that attaches to an Application Load Balancer.
 
 1. A customer requests data from the application by going to AnyCompany’s website.
 

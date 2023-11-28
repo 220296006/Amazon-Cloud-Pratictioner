@@ -56,7 +56,7 @@ When you upload a file to Amazon S3, you can set permissions to control visibili
 
 ## Amazon S3 storage classes
 
-With Amazon S3, you pay only for what you use. You can choose from a range of storage classes(opens in a new tab) to select a fit for your business and cost needs. When selecting an Amazon S3 storage class, consider these two factors:
+With Amazon S3, you pay only for what you use. You can choose from a range of storage classes to select a fit for your business and cost needs. When selecting an Amazon S3 storage class, consider these two factors:
 
 - How often you plan to retrieve your data
 - How available you need your data to be
@@ -124,7 +124,7 @@ Compared to block storage and object storage, file storage is ideal for use case
 
 ## Amazon Relational Database Service (Amazon RDS)
 
-### Relational databases**
+### **Relational databases**
 
 In a **relational database**, data is stored in a way that relates it to other pieces of data.
 
@@ -134,7 +134,7 @@ Relational databases use structured query language (SQL) to store and query data
 
 ### Amazon Relational Database Service
 
-Amazon Relational Database Service (Amazon RDS)(opens in a new tab) is a service that enables you to run relational databases in the AWS Cloud.
+Amazon Relational Database Service (Amazon RDS) is a service that enables you to run relational databases in the AWS Cloud.
 
 Amazon RDS is a managed service that automates tasks such as hardware provisioning, database setup, patching, and backups. With these capabilities, you can spend less time completing administrative tasks and more time using data to innovate your applications. You can integrate Amazon RDS with other services to fulfill your business and operational needs, such as using AWS Lambda to query your database from a serverless application.
 
@@ -169,19 +169,19 @@ Nonrelational databases are sometimes referred to as “NoSQL databases” becau
 
 In a key-value database, you can add or remove attributes from items in the table at any time. Additionally, not every item in the table has to have the same attributes.
 
-Key           Value
+    Key                                 Value
 
-1             Name: John Doe
+     1                              Name: John Doe
 
-              Address: 123 Any Street
+                                    Address: 123 Any Street
 
-              Favorite drink: Medium latte
+                                    Favorite drink: Medium latte
 
-2             Name: Mary Major
+     2                              Name:    Mary Major
 
-              Address: 100 Main Street
+                                    Address: 100 Main Street
 
-              Birthday: July 5, 1994
+                                    Birthday: July 5, 1994
 
 ## Amazon Redshift
 

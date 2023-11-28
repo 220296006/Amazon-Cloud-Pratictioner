@@ -2,7 +2,7 @@
 
 In computing, a client can be a web browser or desktop application that a person interacts with to make requests to computer servers. A server can be services, such as Amazon Elastic Compute Cloud (Amazon EC2) – a type of virtual server.
 
-![Alt text](0yrwOQpRxGjh0k5S_9IKv5QPQn9lb0_BD.png);
+![Alt text](0yrwOQpRxGjh0k5S_9IKv5QPQn9lb0_BD.png)
 
 ## Deployment models for cloud computing
 

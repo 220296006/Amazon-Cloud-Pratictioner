@@ -82,10 +82,10 @@ By using AWS CLI, you can automate the actions that your services and applicatio
 
 With **AWS Elastic Beanstalk**, you provide code and configuration settings, and Elastic Beanstalk deploys the resources necessary to perform the following tasks:
 
-Adjust capacity
-Load balancing
-Automatic scaling
-Application health monitoring
+- Adjust capacity
+- Load balancing
+- Automatic scaling
+- Application health monitoring
 
 ### AWS CloudFormation
 
