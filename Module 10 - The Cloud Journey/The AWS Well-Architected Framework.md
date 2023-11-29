@@ -55,7 +55,7 @@ Cost optimization includes adopting a consumption model, analyzing and attributi
 
 In December 2021, AWS introduced a sustainability pillar as part of the AWS Well-Architected Framework.
 
-Sustainability is the ability to continually improve sustainability impacts by reducing energy consumption and increasing efficiency across all components of a workload by maximizing the benefits from the provisioned resources and minimizing the total resources required.
+**Sustainability** is the ability to continually improve sustainability impacts by reducing energy consumption and increasing efficiency across all components of a workload by maximizing the benefits from the provisioned resources and minimizing the total resources required.
 
 To facilitate good design for sustainability:
 

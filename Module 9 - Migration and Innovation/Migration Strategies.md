@@ -2,7 +2,7 @@
 
 ## 6 strategies for migration
 
-When migrating applications to the cloud, six of the most common migration strategies(opens in a new tab) that you can implement are:
+When migrating applications to the cloud, six of the most common **migration strategies** that you can implement are:
 
 - Rehosting
 - Replatforming

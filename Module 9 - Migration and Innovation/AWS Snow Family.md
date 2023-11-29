@@ -2,7 +2,7 @@
 
 ## AWS Snow Family members
 
-The AWS Snow Family(opens in a new tab) is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS.
+The **AWS Snow Family** is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS.
 
 AWS Snow Family is composed of AWS Snowcone, AWS Snowball, and AWS Snowmobile.
 
